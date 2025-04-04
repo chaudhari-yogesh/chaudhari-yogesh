@@ -8,21 +8,21 @@ Strong problem-solver with a focus on **high-quality code** and **performance-dr
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-#### 🧠 Languages & Frameworks
+### 🧠 Languages & Frameworks
 - Python 🐍
 - Frameworks: Django, FastAPI
 
-#### ⚙️ DevOps Tools
+### ⚙️ DevOps Tools
 - Jenkins
 - Docker
 - Terraform
 
-#### ☁️ Cloud Providers
+### ☁️ Cloud Providers
 - GCP
 
-#### 🗄️ Databases
+### 🗄️ Databases
 - PostgreSQL | MySQL | MSSQL
 
 ---
