@@ -35,8 +35,6 @@ Strong problem-solver with a focus on **high-quality code** and **performance-dr
 ---
 
 ### 🧩 Fun Fact
-> I love Always learning and Exploring. 💡
+> I'm always learning and exploring new tools, tech, and techniques. 🚀
 
 ---
-
-_“The best way to predict the future is to invent it.” – Alan Kay_
