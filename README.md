@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Yogesh Chaudhari
 
-### 🧑‍💻 Senior Staff Engineer | DevOps | Platform Engineering | Developer Advocate  
+### 🧑‍💻 Python Developer | Django | Django REST Framework | Devops | GCP |
 
-I'm **Shubham**, a passionate technologist from 🇮🇳 with over **8+ years of professional experience**, working both **onsite and remotely**. I specialize in building **production-grade applications**, setting up **DevOps pipelines**, and creating **scalable platform solutions**.
+Passionate Python Developer with **2+ years of experience** in building scalable applications using **Python** and **Django REST Framework (DRF)**. Skilled in RESTful API development, backend optimization, and DevOps tools like **Docker**, **CI/CD**, and **cloud solutions** to enhance system efficiency.
+
+Strong problem-solver with a focus on **high-quality code** and **performance-driven development** in fast-paced environments.
 
 ---
 
@@ -10,40 +12,30 @@ I'm **Shubham**, a passionate technologist from 🇮🇳 with over **8+ years of
 
 #### 🧠 Languages & Frameworks
 - Python 🐍
-- JavaScript / Node.js
-- MVC Frameworks: Django, Flask, Spring
+- Frameworks: Django, FastAPI
 
-#### ⚙️ DevOps & Platform Engineering
-- Jenkins | GitHub Actions | GitLab CI
-- Docker | Kubernetes | Helm
-- Terraform | Ansible | Pulumi
+#### ⚙️ DevOps Tools
+- Jenkins
+- Docker
+- Terraform
 
 #### ☁️ Cloud Providers
-- AWS | Azure | GCP
-
-#### 🛠️ Monitoring & Logging
-- Prometheus | Grafana
-- ELK Stack
-- Datadog | New Relic
+- GCP
 
 #### 🗄️ Databases
-- PostgreSQL | MySQL | MongoDB
-- Redis | Cassandra
+- PostgreSQL | MySQL | MSSQL
 
 ---
 
 ### 🌐 Let's Connect
 
-- 🔗 [Visit my Website](https://yourwebsite.com)
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📸 [Follow me on Instagram](https://www.instagram.com/yourhandle)
-- 📧 [Shoot Me an Email](mailto:your.email@example.com)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/-yog/)
+- 📧 [Shoot Me an Email](mailto:yochaudhari2002@gmail.com)
 
 ---
 
 ### 🧩 Fun Fact
-> I love mentoring, open source contributions, and building communities for developers.  
-> Always learning. Always sharing. 💡
+> I love Always learning and Exploring. 💡
 
 ---
 
