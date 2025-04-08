@@ -33,7 +33,4 @@ Strong problem-solver, focusing on **high-quality code** and **performance-drive
 
 ---
 
-### 🧩 Fun Fact
-> I'm always learning and exploring new tools, tech, and techniques. 🚀
 
----
