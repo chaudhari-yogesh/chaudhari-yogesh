@@ -11,7 +11,12 @@ Strong problem-solver, focusing on **high-quality code** and **performance-drive
 
 ### 🧠 Languages & Frameworks
 - Python 🐍
-- Frameworks: Django, FastAPI
+- Frameworks: Django, FastAPI, Flask
+
+### GenAPI
+- LangChain
+- OpenAI
+- Claude
 
 ### ⚙️ DevOps Tools
 - Jenkins
