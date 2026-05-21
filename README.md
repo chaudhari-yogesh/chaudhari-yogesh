@@ -13,7 +13,7 @@ Strong problem-solver, focusing on **high-quality code** and **performance-drive
 - Python 🐍
 - Frameworks: Django, FastAPI, Flask
 
-### GenAPI
+### 🤖 Gen AI
 - LangChain
 - OpenAI
 - Claude
