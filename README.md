@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yogesh Chaudhari
 
-### 🧑‍💻 Python Developer | Django | Django REST Framework | Devops | GCP |
+### 🧑‍💻 Python Developer | Django | Django REST Framework | Devops | AWS |
 
 I am a passionate Python Developer with **3+ years of experience** in building scalable applications using **Python** and **Django REST Framework (DRF)**. Skilled in RESTful API development, backend optimization, and DevOps tools like **Docker**, **CI/CD**, and **cloud solutions** to enhance system efficiency.
 
